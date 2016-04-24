@@ -16,3 +16,9 @@ sources:
 
 * [karma-jasmine-html-reporter] (https://www.npmjs.com/package/karma-jasmine-html-reporter)
 * [karma-htmlfile-reporter] (https://www.npmjs.com/package/karma-htmlfile-reporter)
+
+
+### optimization/ performance
+* [considering-speed-and-slowness-in-angularjs] (https://www.exratione.com/2013/12/considering-speed-and-slowness-in-angularjs)
+* [11-tips-to-improve-angularjs-performance] (http://www.alexkras.com/11-tips-to-improve-angularjs-performance)
+* [angularjs-performance-large-applications] (https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications)
