@@ -1,4 +1,5 @@
 ## protractor examples (e2e test)
+([from](https://docs.angularjs.org/tutorial/step_03)
 ```javascript
 // index.html
 /////////////
